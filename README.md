@@ -23,4 +23,4 @@
 <h3 align="left">🎨 Design</h3>
 <p align="left"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
 <h3 align="left">💻 IDE:</h3>
-<p align="left"><a href="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)" target="_blank" rel="noreferrer"> <img src="![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)" alt="figma" width="40" height="40"/> </a></p>
+<p align="left"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)" alt="visual" width="40" height="40"/> </a></p>

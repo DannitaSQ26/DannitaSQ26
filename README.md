@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Soy Danna Susanibar</h1>
 <h3 align="center">Frontend Developer | HTML • CSS • UI Design</h3>
 
-- 🔭 Tienda de ropa – **Urban Style**
+- 🔭 Soy estudiante de la carrera de Ingeniería de Sitemas e Informática
 
 - 📫Escribeme a **d.susanibar.q@gmail.com**
 

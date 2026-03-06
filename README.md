@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danna Susanibar</h1>
+<h1 align="center">Hi 👋, Soy Danna Susanibar</h1>
 <h3 align="center">Frontend Developer | HTML • CSS • UI Design</h3>
 
 - 🔭 Tienda de ropa – **Urban Style**

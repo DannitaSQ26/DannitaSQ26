@@ -5,6 +5,8 @@
 
 - 📫Escribeme a **d.susanibar.q@gmail.com**
 
+  <img align="center" src="https://github.com/user-attachments/assets/f93f46b2-46e7-4923-a782-46534e0d7530">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/danna susanibar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danna susanibar" height="30" width="40" /></a>

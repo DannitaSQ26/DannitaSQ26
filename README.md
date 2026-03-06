@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.tiktok.com/@roxcode.dev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="danna susanibar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/danna susanibar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danna susanibar" height="30" width="40" /></a>
 <a href="https://fb.com/dannitasq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dannitasq" height="30" width="40" /></a>
 <a href="https://discord.gg/dannaroxanne_susanibarquispe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dannaroxanne_susanibarquispe" height="30" width="40" /></a>
